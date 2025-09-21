@@ -7,4 +7,4 @@ For too long, many RIVALS thumbnail makers have struggled importing certain asse
 # Introducing RRA Importer
 A free-to-use Blender add-on that let's you import assets with just a few clicks. Super reliable and easy to use.
 
-So, what are you waiting for? Use RRA Importer now by going to this link: [(Download)](https://github.com/squidward5/RRA-Importer/releases/tag/Release)
+So, what are you waiting for? Use RRA Importer now by going to this link: [Download](https://github.com/squidward5/RRA-Importer/releases/tag/Release)
