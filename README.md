@@ -9,9 +9,9 @@ A free and easy-to-use Blender add-on that allows you to import assets with just
 
 So, what are you waiting for? Use RRA Importer now by going to this link: [Download](https://github.com/squidward5/RRA-Importer/releases)
 
-# ⚠️ Please note:
-Some weapons or skins might not look exact. Please use a separate plugin named [PBR Solution](https://efficientguy.gumroad.com/l/PBRSolution).
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/squidward5/RRA-Importer/refs/heads/main/Main.png" width="800">
 </p>
+
+# ⚠️ Please note:
+Some weapons or skins might not look exact. Please use a separate plugin named [PBR Solution](https://efficientguy.gumroad.com/l/PBRSolution).
