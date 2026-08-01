@@ -15,7 +15,7 @@ So, what are you waiting for? Use RRA Importer now by going to this link: [Downl
 
 
 # ⚠️ Please note:
-Some weapons or skins might not look exact. Please use a separate plugin named [PBR Solution](https://efficientguy.gumroad.com/l/PBRSolution).
+Some weapons or skins might not look exact. Please use a separate plugin named [PBR Solution](https://efficientguy.gumroad.com/l/PBRSolution) for any texture issues.
 
 # 🛜 Discord:
 https://discord.gg/RgKWASPUGU
